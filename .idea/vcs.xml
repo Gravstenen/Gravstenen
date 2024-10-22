@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+<<<<<<< HEAD
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Vecka2AvanceradProg" vcs="Git" />
+=======
     <mapping directory="" vcs="Git" />
+>>>>>>> c7ef84affd3ae6d06bbeaa504f6a16f57d0a3f74
   </component>
 </project>
